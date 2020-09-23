@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>sys_connection</connection_type>
+        <id>x_87054_shopping.GitHub_Credentials___Nayeem_Kaka</id>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub Credentials - Nayeem Kaka</name>
+        <parent/>
+        <retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 14:10:12</sys_created_on>
+        <sys_id>3dfa5c7bdb531010b53c85184b961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_87054_shopping.GitHub_Credentials___Nayeem_Kaka</sys_name>
+        <sys_package display_value="Shopping List" source="x_87054_shopping">51850a87db531010b53c85184b9619a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">51850a87db531010b53c85184b9619a5</sys_scope>
+        <sys_update_name>sys_alias_3dfa5c7bdb531010b53c85184b961980</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 14:10:12</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">51850a87db531010b53c85184b9619a5</application>
+        <file_path/>
+        <instance_id>594b0aa8db025f080e785d00cf96199b</instance_id>
+        <instance_name>dev58848</instance_name>
+        <name>sys_alias_3dfa5c7bdb531010b53c85184b961980</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>sys_connection</connection_type><id>x_87054_shopping.GitHub_Credentials___Nayeem_Kaka</id><multiple_connections>false</multiple_connections><name>GitHub Credentials - Nayeem Kaka</name><parent/><retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-23 14:10:12</sys_created_on><sys_id>3dfa5c7bdb531010b53c85184b961980</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_87054_shopping.GitHub_Credentials___Nayeem_Kaka</sys_name><sys_package display_value="Shopping List" source="x_87054_shopping">51850a87db531010b53c85184b9619a5</sys_package><sys_policy/><sys_scope display_value="Shopping List">51850a87db531010b53c85184b9619a5</sys_scope><sys_update_name>sys_alias_3dfa5c7bdb531010b53c85184b961980</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-23 14:10:12</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1114012396</payload_hash>
+        <record_name>x_87054_shopping.GitHub_Credentials___Nayeem_Kaka</record_name>
+        <reverted_from/>
+        <source>d9850a87db531010b53c85184b9619a6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 14:10:12</sys_created_on>
+        <sys_id>bb4b50bbdb531010b53c85184b9619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174bb4ce2450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 14:10:12</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>f34b50bba9531010c8152824d12900f8</update_guid>
+        <update_guid_history>f34b50bba9531010c8152824d12900f8:1114012396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-23 14:12:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>22362f4fac4248a0bad588da64659010</sys_id>
+        <sys_metadata>3dfa5c7bdb531010b53c85184b961980</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_87054_shopping.GitHub_Credentials___Nayeem_Kaka</sys_name>
+        <sys_package display_value="Shopping List" source="x_87054_shopping">51850a87db531010b53c85184b9619a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">51850a87db531010b53c85184b9619a5</sys_scope>
+        <sys_scope_delete display_value="">1d2a2af0410c42709adb6ac28e53b6e4</sys_scope_delete>
+        <sys_update_name>sys_alias_3dfa5c7bdb531010b53c85184b961980</sys_update_name>
+        <sys_update_version display_value="sys_alias_3dfa5c7bdb531010b53c85184b961980">bb4b50bbdb531010b53c85184b9619f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-23 14:12:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
